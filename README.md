@@ -9,9 +9,8 @@ This project can be used in **two ways**:
 - Example:
 
 ```sh
-{"senha_gerada": "3s6Umxva@qm@"}
-{"senha_gerada": "gtGcq!6Mrvc8"}
-{"senha_gerada": "!zZ8pjWQlJwx"}
+{"nome": "teste", "senha_gerada": "EFI9@Vt8IB2a", "data_registro": "11-05-2025"}
+{"nome": "testado", "senha_gerada": "O!0S!1Z$qx5I", "data_registro": "11-05-2025"}
 ```
 ---
 
